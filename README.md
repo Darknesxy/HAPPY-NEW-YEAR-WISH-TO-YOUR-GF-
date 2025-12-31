@@ -7,7 +7,7 @@
 </div>
 
 ## 🎆 Live Demo
-[![Live Preview](https://github.com/username/happy-new-year-love/raw/main/screenshot.jpg)](https://username.github.io/happy-new-year-love/)
+[![Live Preview]https://darknesxy.github.io/HAPPY-NEW-YEAR-WISH-TO-YOUR-GF-/
 
 ## 🚀 Features
 
